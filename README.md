@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi, I'm Muhammad Rifqi Sahib 👋
 
-<!--
-**B1ass/B1ass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Engineer & Data Analyst
 
-Here are some ideas to get you started:
+I build data-driven solutions, from data collection and machine learning to ETL pipelines and data warehousing. I enjoy transforming raw data into structured, reliable, and actionable insights.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
