@@ -6,7 +6,7 @@ I build data-driven solutions, from data collection and machine learning to ETL 
 
 ## 🛠️ Tech Stack
 ### 💻 Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=python)
+![Programming Languages](https://skillicons.dev/icons?i=python,sql)
 
 ### 📊 Data Analysis & Visualization
 ![Data Analysis](https://skillicons.dev/icons?i=python)
