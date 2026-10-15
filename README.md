@@ -82,3 +82,13 @@ https://github.com/B1ass/female-daily-product-scraping
 ### 🏦 Global Black Money Data Warehouse
 
 Worked on a data warehousing project focused on structuring and organizing global black money data for analytical purposes. The project explores data processing and data warehousing concepts to support further analysis.
+
+https://github.com/B1ass/global-black-money-analytics
+
+📫 Let's Connect
+
+GitHub: https://github.com/B1ass
+
+LinkedIn: www.linkedin.com/in/rifqi-sahib
+
+Email: MRSPBN@gmail.com
