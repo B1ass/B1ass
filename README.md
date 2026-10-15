@@ -54,3 +54,17 @@ I build data-driven solutions, from data collection and machine learning to ETL 
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+## 🚀 Featured Projects
+
+### ♻️ YOLOv8 Waste Detection
+
+Developed a waste detection system using YOLOv8 to identify and classify organic and inorganic waste. Integrated the trained model with a Flask web application to enable real-time detection through a webcam.
+
+### 🛍️ Female Daily Product Scraping
+
+Collected product data from Female Daily and processed it using Python and Pandas to clean and prepare the data. Designed a PostgreSQL database with staging and normalized tables to organize the extracted product information.
+
+### 🏦 Global Black Money Data Warehouse
+
+Worked on a data warehousing project focused on structuring and organizing global black money data for analytical purposes. The project explores data processing and data warehousing concepts to support further analysis.
