@@ -1,8 +1,18 @@
 ## Hi, I'm Muhammad Rifqi Sahib 👋
 
-Aspiring Data Engineer, Data Scientist & Data Analyst
+### Aspiring Data Engineer | Data Scientist | Data Analyst
 
-I build data-driven solutions, from data collection and machine learning to ETL pipelines and data warehousing. I enjoy transforming raw data into structured, reliable, and actionable insights.
+I build data-driven solutions, from data collection and machine learning to ETL workflows and data warehousing. I enjoy transforming raw data into structured, reliable, and actionable insights.
+
+## 🎯 What I Build
+
+**Data Processing & Engineering**  — Collecting, cleaning, transforming, and organizing raw data into structured datasets and databases.
+
+**Data Analytics & Warehousing** — Preparing data for analysis and designing database structures to support data storage and reporting.
+
+**Machine Learning & Computer Vision** — Developing machine learning applications to identify patterns and solve real-world problems.
+
+🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -60,6 +70,8 @@ I build data-driven solutions, from data collection and machine learning to ETL 
 ### ♻️ YOLOv8 Waste Detection
 
 Developed a waste detection system using YOLOv8 to identify and classify organic and inorganic waste. Integrated the trained model with a Flask web application to enable real-time detection through a webcam.
+
+
 
 ### 🛍️ Female Daily Product Scraping
 
