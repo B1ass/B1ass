@@ -85,10 +85,10 @@ Worked on a data warehousing project focused on structuring and organizing globa
 
 https://github.com/B1ass/global-black-money-analytics
 
-📫 Let's Connect
+## 📫 Let's Connect
 
-GitHub: https://github.com/B1ass
+**GitHub**: https://github.com/B1ass
 
-LinkedIn: www.linkedin.com/in/rifqi-sahib
+**LinkedIn**: www.linkedin.com/in/rifqi-sahib
 
-Email: MRSPBN@gmail.com
+**Email**: MRSPBN@gmail.com
