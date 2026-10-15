@@ -77,6 +77,8 @@ https://github.com/B1ass/organic-inorganic-waste-detection
 
 Collected product data from Female Daily and processed it using Python and Pandas to clean and prepare the data. Designed a PostgreSQL database with staging and normalized tables to organize the extracted product information.
 
+https://github.com/B1ass/female-daily-product-scraping
+
 ### 🏦 Global Black Money Data Warehouse
 
 Worked on a data warehousing project focused on structuring and organizing global black money data for analytical purposes. The project explores data processing and data warehousing concepts to support further analysis.
