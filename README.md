@@ -71,7 +71,7 @@ I build data-driven solutions, from data collection and machine learning to ETL 
 
 Developed a waste detection system using YOLOv8 to identify and classify organic and inorganic waste. Integrated the trained model with a Flask web application to enable real-time detection through a webcam.
 
-
+https://github.com/B1ass/organic-inorganic-waste-detection
 
 ### 🛍️ Female Daily Product Scraping
 
