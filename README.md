@@ -49,9 +49,6 @@ I build data-driven solutions, from data collection and machine learning to ETL 
 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=for-the-badge)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
 
-### 📝 NLP
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ### 🌐 Web Scraping & Development
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge)
