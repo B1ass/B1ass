@@ -12,8 +12,6 @@ I build data-driven solutions, from data collection and machine learning to ETL 
 
 **Machine Learning & Computer Vision** — Developing machine learning applications to identify patterns and solve real-world problems.
 
-🛠️ Tech Stack
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
