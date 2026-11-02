@@ -80,6 +80,12 @@ Worked on a data warehousing project focused on structuring and organizing globa
 
 https://github.com/B1ass/global-black-money-analytics
 
+### 🚌 TransJakarta Travel Pattern Analysis
+
+Worked on a data analytics project focused on exploring TransJakarta passenger travel patterns using April 2023 transaction data. The project analyzes daily travel trends, peak hours, popular corridors, departure and destination stops, and journey duration through data exploration and interactive dashboard development using Python and Looker Studio.
+
+
+
 ## 📫 Let's Connect
 
 **GitHub**: https://github.com/B1ass
