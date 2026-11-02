@@ -74,17 +74,17 @@ Collected product data from Female Daily and processed it using Python and Panda
 
 https://github.com/B1ass/female-daily-product-scraping
 
+### 🚌 TransJakarta Travel Pattern Analysis
+
+Worked on a data analytics project focused on exploring TransJakarta passenger travel patterns using April 2023 transaction data. The project analyzes daily travel trends, peak hours, popular corridors, departure and destination stops, and journey duration through data exploration and interactive dashboard development using Python and Looker Studio.
+
+https://github.com/B1ass/transjakarta-travel-pattern-analysis
+
 ### 🏦 Global Black Money Data Warehouse
 
 Worked on a data warehousing project focused on structuring and organizing global black money data for analytical purposes. The project explores data processing and data warehousing concepts to support further analysis.
 
 https://github.com/B1ass/global-black-money-analytics
-
-### 🚌 TransJakarta Travel Pattern Analysis
-
-Worked on a data analytics project focused on exploring TransJakarta passenger travel patterns using April 2023 transaction data. The project analyzes daily travel trends, peak hours, popular corridors, departure and destination stops, and journey duration through data exploration and interactive dashboard development using Python and Looker Studio.
-
-
 
 ## 📫 Let's Connect
 
